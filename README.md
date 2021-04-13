@@ -1,7 +1,5 @@
 # Zappar for PlayCanvas - beta docs
 
-![Build](https://github.com/zappar-xr/zappar-playcanvas/workflows/Build/badge.svg)
-
 This project lets you use Zappar's best-in-class AR technology with the PlayCanvas WebGL game engine. The library provides high performance (30 frames-per-second) face, image and world tracking for AR experiences, running in the browsers already installed on your users' mobile phones.
 
 If you would like more information on customizing the scripts and underlying behaviors, please refer to zappar-js documentation found on our [documentation site](https://docs.zap.works/universal-ar/javascript/pipelines-and-camera-processing/) or on npm [@zappar/zappar](https://www.npmjs.com/package/@zappar/zappar).
