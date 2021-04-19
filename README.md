@@ -72,8 +72,12 @@ Here's what imported `Face Tracker Template` looks like:
 <img src="images/templates_imported.png" width="720">
 
 ### Example Projects
+We have a number of free example projects created using these different tracking templates, coupled with other PlayCanvas specific functionality on the way.
 
-We have a number of free example projects created using these different tracking templates, coupled with other PlayCanvas specific functionality. You can view and clone them here:
+Face Tracking game example:
+https://playcanvas.com/editor/scene/1130353
+
+
 https://github.com/zappar-xr/zappar-playcanvas-examples
 
 ## Tracking Types
