@@ -76,8 +76,9 @@ We have a number of free example projects created using these different tracking
 
 Currently available examples are listed below.
 
-Face Tracking Game: https://playcanvas.com/editor/scene/1130353
-
+Face Tracking Game: https://playcanvas.com/project/784792/overview/face-tracking--cannon-game
+Image Tracking Game: https://playcanvas.com/project/789082/overview/image-tracking--whack-a-mole
+Instant Tracking Touch Controls: https://playcanvas.com/project/788001/overview/instant-tracking--touch-control
 
 ## Tracking Types
 
